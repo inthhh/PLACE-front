@@ -8,9 +8,9 @@
 <img width="623" alt="image" src="https://github.com/inthhh/PLACE-front/assets/91872300/bed9d6be-76d6-44ee-b711-f9472f73960a" width="300px">
 
 ## 🙌 실행 화면
-<img width="1440" alt="image" src="https://github.com/inthhh/PLACE-front/assets/91872300/90f2e4a3-a0e8-4c18-8b26-0203b15d01d8" width="400px">
-<img width="1440" alt="image" src="https://github.com/inthhh/PLACE-front/assets/91872300/40c4bc29-3356-4892-be0d-ccf9483ee19d" width="400px">
-<img width="1439" alt="image" src="https://github.com/inthhh/PLACE-front/assets/91872300/84fed9c1-f329-4038-8aeb-7852375475f4" width="400px">
+<img width="1440" alt="image" src="https://github.com/inthhh/PLACE-front/assets/91872300/90f2e4a3-a0e8-4c18-8b26-0203b15d01d8" width="300px">
+<img width="1440" alt="image" src="https://github.com/inthhh/PLACE-front/assets/91872300/40c4bc29-3356-4892-be0d-ccf9483ee19d" width="300px">
+<img width="1439" alt="image" src="https://github.com/inthhh/PLACE-front/assets/91872300/84fed9c1-f329-4038-8aeb-7852375475f4" width="300px">
 
 
 
