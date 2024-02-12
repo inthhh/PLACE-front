@@ -1,6 +1,20 @@
 <h1>UMC project : PLACE 🎱</h1>
 <h3>(2023.07 ~ 2023.08)</h3><br/>
 
+## 🌉 요구사항
+- 전시회 및 팝업 등 문화생활의 가치를 높이고, 홍보하기 위한 플랫폼을 기획하였습니다.
+- 위치, 후기 등을 공유하고 전용 커뮤니티를 형성하고자 하였습니다.<br>
+프로토타입 : <br>
+<img width="623" alt="image" src="https://github.com/inthhh/PLACE-front/assets/91872300/bed9d6be-76d6-44ee-b711-f9472f73960a" width="300px">
+
+## 🙌 실행 화면
+<img width="1440" alt="image" src="https://github.com/inthhh/PLACE-front/assets/91872300/90f2e4a3-a0e8-4c18-8b26-0203b15d01d8" width="400px">
+<img width="1440" alt="image" src="https://github.com/inthhh/PLACE-front/assets/91872300/40c4bc29-3356-4892-be0d-ccf9483ee19d" width="400px">
+<img width="1439" alt="image" src="https://github.com/inthhh/PLACE-front/assets/91872300/84fed9c1-f329-4038-8aeb-7852375475f4" width="400px">
+
+
+
+## FE 설명서
 1️⃣ 프로젝트 환경설정<br/><br/>
 폴더를 하나 만드신 후, 폴더의 경로에서 터미널에 ```git clone [레포지토리 url]``` 를 실행하시면 됩니다.<br/>
 그리고 place 폴더 경로에서 ```npm i``` 를 실행해 설치해주세요. (이후 git pull 할때마다 해주시면 좋아요)<br/>
